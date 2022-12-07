@@ -1,2 +1,1 @@
-# UIUX-Portfolio
-CSCI 1300 UIUX Final Portfolio
+# CSCI 1300 Final Portfolio
