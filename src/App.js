@@ -7,7 +7,7 @@ function App() {
       <div className="parallax">
         <div className="heading">
           <div className="title">
-            <h1>vibingcat217</h1>
+            <h1>Sophia Tu</h1>
             <h2>UI/UX Portfolio</h2>
             <p>This is a record of my progress in CS1300. I'm new to UI/UX!</p>
           </div>
