@@ -1,15 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+`[https://<your GitHub username>.github.io/<name of your repository>](https://sophiatu2.github.io/uiux/)`
 
-### Goal and Value of the Application
-
-### Usability Principles Considered
-
-### Organization of Components
-
-### How Data is Passed Down Through Components
-
-### How the User Triggers State Changes
-
+### Description
+A compilation of UI/UX projects completed in CSCI1300: UIUX at Brown University
